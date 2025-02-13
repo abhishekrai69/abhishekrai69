@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Rai</h1>
-<h3 align="center"> A B-Tech student in Computer Science and Engineering at Chitkara University. This repository showcases my journey and growth in software development, including projects in Web Development. I am passionate about building innovative solutions and expanding my technical skills. Crafting elegant solutions with lines of code...!</h3>
+<h3 align="center">This repository showcases my journey and growth in software development, including projects in Web Development. I am passionate about building innovative solutions and expanding my technical skills. Crafting elegant solutions with lines of code...!</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
